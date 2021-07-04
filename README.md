@@ -1,6 +1,14 @@
 # ImageGallary
 This is a Image Gallary desktop app build on C# and .net
 
+### At this Image Gallary application you can - 
+  * Search different images of your choice.
+  * Save them in Pdf format.
+  * Save them in different images format(jpg, png, bnp...) Using dialog box.
+
+
+
+
 ## Screenshots
 ![1625369662679](https://user-images.githubusercontent.com/55319798/124372992-5b595980-dcac-11eb-82af-ca2a52d16b0b.png)
 ![1625369662664](https://user-images.githubusercontent.com/55319798/124372997-6ca26600-dcac-11eb-9112-d07cf83df4b8.png)
